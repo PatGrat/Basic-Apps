@@ -1,3 +1,8 @@
+#Beginner apps 
+# Using python to create a plain 6 dice simulation 
+# Asking the user to yeet the roll
+# Displaying the results in a simplistic visual form
+
 import numpy as np
 import random
 print ("   Roll To Know Your Fate")
